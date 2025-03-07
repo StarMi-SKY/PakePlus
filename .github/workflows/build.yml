@@ -84,7 +84,7 @@ jobs:
               with:
                   tagName: 'CasuaInessBLOG'
                   releaseName: 'CasuaInessBLOG v__VERSION__'
-                  releaseBody: '🎉🎉CasuaInessBLOG桌面端1.0.0'
+                  releaseBody: '🎉🎉CasuaInessBLOG发布1.0.1版本'
                   releaseDraft: false
                   prerelease: false
                   publish: true
