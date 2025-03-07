@@ -1,6 +1,6 @@
 [package]
 name = "CasuaInessBLOG"
-version = "1.0.0"
+version = "1.0.1"
 description = "苏宛墨の小破站，热衷于前端技术交流与分享"
 authors = ["1024xiaoshen"]
 edition = "2021"
