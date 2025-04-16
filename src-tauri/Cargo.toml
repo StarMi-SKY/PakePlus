@@ -1,8 +1,8 @@
 [package]
-name = "htmltauri"
-version = "0.1.0"
-description = "A Tauri App"
-authors = ["you"]
+name = "MetoWhale"
+version = "1.0.1"
+description = "小众旅行沉浸式社区，以深海蓝为主视觉，用户通过地图标记生成“鲸声轨迹”，解锁秘境路线。攻略库按“鲸群迁徙路线”智能推荐，每篇游记点亮一片海域。迷途亦是归途，所有探索终成回声。"
+authors = ["1024xiaoshen"]
 edition = "2021"
 
 # See more keys and their definitions at https://doc.rust-lang.org/cargo/reference/manifest.html
@@ -23,3 +23,4 @@ tauri-plugin-opener = "2"
 serde = { version = "1", features = ["derive"] }
 serde_json = "1"
 tauri-plugin-store = "2.0.0"
+tauri-plugin-single-instance = "2"
