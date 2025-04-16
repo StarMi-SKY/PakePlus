@@ -1,8 +1,8 @@
 [package]
-name = "htmltauri"
-version = "0.1.0"
-description = "A Tauri App"
-authors = ["you"]
+name = "CasuaInessBLOG"
+version = "1.0.9"
+description = "「随心の博客」是聚焦编程开发与前沿技术的个人博客，分享实战经验、开源工具与原创教程。以通俗语言解析技术难点，用代码实践探索数字世界，欢迎各位大佬交流学习，共同成长。"
+authors = ["1024xiaoshen"]
 edition = "2021"
 
 # See more keys and their definitions at https://doc.rust-lang.org/cargo/reference/manifest.html
@@ -23,3 +23,4 @@ tauri-plugin-opener = "2"
 serde = { version = "1", features = ["derive"] }
 serde_json = "1"
 tauri-plugin-store = "2.0.0"
+tauri-plugin-single-instance = "2"
